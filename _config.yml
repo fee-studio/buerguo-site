@@ -97,3 +97,12 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/fee-studio/fee-studio.github.io.git
+  branch: master
+  token: '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'
+  github-token: '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'
+#  message: [message]
+  name: fengyiyi
+  email: iosfeng@163.com
+#  extend_dirs: [extend directory]
+#  ignore_hidden: false # default is true
+#  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
